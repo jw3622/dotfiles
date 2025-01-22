@@ -5,26 +5,6 @@
   "terminal.integrated.fontSize": 16, // Use 18 for Screen Recordings
   "window.zoomLevel": 0, // Use 3 for Screen Recordings
 
-  // Uncomment Below for Recording...
-
-  // "editor.fontSize": 18, // Use 18 for Screen Recordings
-  // "debug.console.fontSize": 18, // Use 18 for Screen Recordings
-  // "terminal.integrated.fontSize": 18, // Use 18 for Screen Recordings
-  // "window.zoomLevel": 3, // Use 3 for Screen Recordings
-  // "github.copilot.editor.enableAutoCompletions": false,
-  // "editor.quickSuggestions": {
-  //   "comments": "off",
-  //   "strings": "off"
-  //   "other": "on",
-  // },
-  // "editor.lightbulb.enabled": "off",
-  // "editor.parameterHints.enabled": false,
-  // "editor.hover.enabled": false,
-  // "editor.inlineSuggest.enabled": false,
-  // "editor.suggest.showSnippets": false,
-
-  // END - Recording specific settings
-
   // General settings
   "workbench.colorTheme": "Predawn",
   "workbench.iconTheme": "ayu",
@@ -40,7 +20,7 @@
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.quickSuggestionsDelay": 200,
-  "editor.dragAndDrop": false
+  "editor.dragAndDrop": false,
   "editor.minimap.enabled": false,
   "diffEditor.useInlineViewWhenSpaceIsLimited": false,
 
